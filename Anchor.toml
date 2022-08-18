@@ -3,6 +3,7 @@ solana_version = "1.9.13"
 
 [scripts]
 test = "yarn mocha tests/*.spec.ts"
+test-s = "yarn mocha tests/stake.spec.ts"
 
 [provider]
 cluster = "localnet"

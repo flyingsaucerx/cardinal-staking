@@ -18,4 +18,5 @@ solana-test-validator --url https://api.devnet.solana.com --clone metaqbxxUerdq2
 solana airdrop 1000 $(solana-keygen pubkey tests/test-key.json) --url http://localhost:8899
 
 anchor test --skip-local-validator --provider.cluster localnet
+anchor run test-s
 ```
