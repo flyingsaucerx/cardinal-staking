@@ -9,17 +9,17 @@ cluster = "localnet"
 wallet = "./tests/test-key.json"
 
 [programs.mainnet]
-cardinal_stake_pool = "stkBL96RZkjY5ine4TvPihGqW8UHJfch2cokjAPzV8i"
-cardinal_reward_distributor = "rwdNPNPS6zNvtF6FMvaxPRjzu2eC51mXaDT9rmWsojp"
+cardinal_stake_pool = "t1LVbNwJZT3pxFQHfY65jp6QbvcTvda6oPSbaeKbYEs"
+cardinal_reward_distributor = "t2youarTBdTv9eRXoDaMGCywbYjAteNF3Fuzvn8fXNj"
 
 [programs.devnet]
-cardinal_stake_pool = "stkBL96RZkjY5ine4TvPihGqW8UHJfch2cokjAPzV8i"
-cardinal_reward_distributor = "rwdNPNPS6zNvtF6FMvaxPRjzu2eC51mXaDT9rmWsojp"
+cardinal_stake_pool = "t1LVbNwJZT3pxFQHfY65jp6QbvcTvda6oPSbaeKbYEs"
+cardinal_reward_distributor = "t2youarTBdTv9eRXoDaMGCywbYjAteNF3Fuzvn8fXNj"
 
 [programs.testnet]
-cardinal_stake_pool = "stkBL96RZkjY5ine4TvPihGqW8UHJfch2cokjAPzV8i"
-cardinal_reward_distributor = "rwdNPNPS6zNvtF6FMvaxPRjzu2eC51mXaDT9rmWsojp"
+cardinal_stake_pool = "t1LVbNwJZT3pxFQHfY65jp6QbvcTvda6oPSbaeKbYEs"
+cardinal_reward_distributor = "t2youarTBdTv9eRXoDaMGCywbYjAteNF3Fuzvn8fXNj"
 
 [programs.localnet]
-cardinal_stake_pool = "stkBL96RZkjY5ine4TvPihGqW8UHJfch2cokjAPzV8i"
-cardinal_reward_distributor = "rwdNPNPS6zNvtF6FMvaxPRjzu2eC51mXaDT9rmWsojp"
+cardinal_stake_pool = "t1LVbNwJZT3pxFQHfY65jp6QbvcTvda6oPSbaeKbYEs"
+cardinal_reward_distributor = "t2youarTBdTv9eRXoDaMGCywbYjAteNF3Fuzvn8fXNj"
